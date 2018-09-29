@@ -11,3 +11,8 @@ third party monitoring through APIs
 Servicenow monitoring for
 vcenter monitoring
 server monitoring
+
+
+later on, will add a web server that displays page(s) linked to the outage on a loop, either grafana pages that teams have built, or third party status pages.
+
+admit, not sure how to do all this, but thats the fun right?
